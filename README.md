@@ -1,2 +1,2 @@
-# Dance-Studio-Website-2
+# Dance-Studio-Website
 DANCE-STUDIO-WEBSITE
